@@ -1,5 +1,3 @@
-# 20240121_uchida_html
-
 <!DOCTYPE html>
 <html lang="ja">
 <head>
