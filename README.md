@@ -21,7 +21,7 @@
 		</nav>
 	</header>
 	<main>
-		<img src="html-test/mv.png" alt="">
+		<img src="img/mv.png" alt="">
 		<p>最新のテクノロジーで<em>社会課題</em>を解決</p>
 		<h2>会社概要</h2>
 		<table>
